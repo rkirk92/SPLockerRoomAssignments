@@ -1,2 +1,4 @@
-# SPLockerRoomAssignments
-Web application for locker room reservations for Sauk Prairie Youth Hockey.
+# Locker Room Assignments
+Sauk Prairie Youth Hockey Association locker room assignments.
+
+![Home Image](/ReadMeImages/lraHome.png "Home Image")
